@@ -1,0 +1,14 @@
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/bin/Debug/net8.0/exercices_LINQ
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/bin/Debug/net8.0/exercices_LINQ.deps.json
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/bin/Debug/net8.0/exercices_LINQ.runtimeconfig.json
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/bin/Debug/net8.0/exercices_LINQ.dll
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/bin/Debug/net8.0/exercices_LINQ.pdb
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.AssemblyInfoInputs.cache
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.AssemblyInfo.cs
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.csproj.CoreCompileInputs.cache
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.dll
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/refint/exercices_LINQ.dll
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.pdb
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/exercices_LINQ.genruntimeconfig.cache
+/Users/barbara/Projects/exercices_LINQ/exercices_LINQ/obj/Debug/net8.0/ref/exercices_LINQ.dll

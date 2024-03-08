@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{AB86A00E-A938-4BC2-AE7F-FE3E2675AE77}|Default">
+  <MonoDevelop.Ide.ItemProperties.exercices__LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exercices_LINQ/Program.cs">
+    <Files>
+      <File FileName="exercices_LINQ/Program.cs" Line="99" Column="41" />
+      <File FileName="exercices_LINQ/Commands.cs" Line="12" Column="69" />
+      <File FileName="exercices_LINQ/Product.cs" Line="6" Column="16" />
+      <File FileName="exercices_LINQ/Buyer.cs" Line="10" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercices_LINQ " expanded="True">
+            <Node name="exercices_LINQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>customerOrders</Value>
+          <Value>item</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
