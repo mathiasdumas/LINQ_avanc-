@@ -96,7 +96,7 @@ class Program
             Console.WriteLine(group.BuyersName);
             foreach (var prout in group.ProductOrders)
             {
-                Console.WriteLine(prout.);
+                Console.WriteLine(prout);
             }
         }
 
